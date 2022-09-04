@@ -612,5 +612,9 @@
       },
       "type": "boxShadow"
     }
+  },
+  "orange": {
+    "value": "#ff6008",
+    "type": "color"
   }
 }

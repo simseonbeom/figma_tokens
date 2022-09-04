@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 04 Sep 2022 04:33:34 GMT
+ * Generated on Sun, 04 Sep 2022 04:34:56 GMT
  */
 
 export const 140 = "140%";
@@ -109,3 +109,4 @@ export const AboveLow = {"color":"#0000001a","type":"dropShadow","x":0,"y":-4,"b
 export const BelowHigh = {"color":"#0000004d","type":"dropShadow","x":0,"y":16,"blur":48,"spread":0};
 export const BelowMedium = {"color":"#00000033","type":"dropShadow","x":0,"y":8,"blur":36,"spread":0};
 export const BelowLow = {"color":"#0000001a","type":"dropShadow","x":0,"y":4,"blur":24,"spread":0};
+export const Orange = "#ff6008";

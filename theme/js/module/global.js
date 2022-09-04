@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 04 Sep 2022 04:33:34 GMT
+ * Generated on Sun, 04 Sep 2022 04:34:56 GMT
  */
 
 module.exports = {
@@ -299,5 +299,6 @@ module.exports = {
       "blur": 24,
       "spread": 0
     }
-  }
+  },
+  "orange": "#ff6008"
 }
